@@ -28,8 +28,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.06"
-     inkscape:cx="512.02799"
-     inkscape:cy="405.58563"
+     inkscape:cx="318.63176"
+     inkscape:cy="401.81205"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -66,27 +66,25 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="formulario">
-    <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4654"
-       width="139.3372"
-       height="118.7664"
-       x="4.6333499"
-       y="72.351967"
-       ry="2.0822935"
-       inkscape:label="campo_protocolo"
-       sodipodi:insensitive="true" />
     <g
-       id="g1083">
+       id="g1211">
       <rect
          inkscape:label="fundo"
          style="fill:#ffffff;stroke-width:0.26458332"
-         y="86.680367"
+         y="-0.3196345"
          x="0"
          height="210"
          width="148.5"
-         id="rect3734"
-         transform="translate(0,-87.000001)" />
+         id="rect3734" />
+      <rect
+         inkscape:label="campo_protocolo"
+         ry="2.0822935"
+         y="72.351967"
+         x="4.6333499"
+         height="118.7664"
+         width="139.3372"
+         id="rect4654"
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          inkscape:label="titulo"
          id="g3771">
@@ -329,7 +327,7 @@
            y="78.837341"
            x="7.6653376"
            id="tspan856"
-           sodipodi:role="line">▢ Remossão de arquivos temporários</tspan></text>
+           sodipodi:role="line">▢ Remoção de arquivos temporários</tspan></text>
       <text
          id="text862"
          y="52.378986"
@@ -704,34 +702,42 @@
            sodipodi:role="line">▢ Outro: __________________________________________________________________</tspan></text>
     </g>
     <g
-       id="g1281"
+       id="g1411"
        transform="translate(148.5)">
       <rect
-         transform="translate(0,-87.000001)"
-         id="rect1085"
+         id="rect1213"
          width="148.5"
          height="210"
          x="0"
-         y="86.680367"
+         y="-0.3196345"
          style="fill:#ffffff;stroke-width:0.26458332"
          inkscape:label="fundo" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1215"
+         width="139.3372"
+         height="118.7664"
+         x="4.6333499"
+         y="72.351967"
+         ry="2.0822935"
+         inkscape:label="campo_protocolo" />
       <g
-         id="g1095"
+         id="g1225"
          inkscape:label="titulo">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="56.281071"
            y="13.220621"
-           id="text1089"
+           id="text1219"
            inkscape:label="infra"><tspan
              sodipodi:role="line"
-             id="tspan1087"
+             id="tspan1217"
              x="56.281071"
              y="13.220621"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">Infraestrutura de TI</tspan></text>
         <text
-           id="text1093"
+           id="text1223"
            y="7.9289589"
            x="23.643267"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -740,7 +746,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
              y="7.9289589"
              x="23.643267"
-             id="tspan1091"
+             id="tspan1221"
              sodipodi:role="line">Secretaria Municipal de Saúde - Nanuque-MG</tspan></text>
       </g>
       <text
@@ -748,16 +754,16 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="52.214138"
          y="21.68729"
-         id="text1099"
+         id="text1229"
          inkscape:label="abertura_chamado"><tspan
            sodipodi:role="line"
-           id="tspan1097"
+           id="tspan1227"
            x="52.214138"
            y="21.68729"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332">Abertura de Chamado</tspan></text>
       <rect
          style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1101"
+         id="rect1231"
          width="53.332607"
          height="7.2844543"
          x="4.3333335"
@@ -766,7 +772,7 @@
          inkscape:label="campo_protocolo" />
       <rect
          style="fill:#ffffff;stroke:none;stroke-width:0.22679664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1103"
+         id="rect1233"
          width="38.577232"
          height="4.5923615"
          x="6.4713473"
@@ -774,7 +780,7 @@
          ry="1.8800095"
          inkscape:label="fundo_campo_protocolo" />
       <text
-         id="text1107"
+         id="text1237"
          y="29.624798"
          x="7.6653371"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -783,7 +789,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="29.624798"
            x="7.6653371"
-           id="tspan1105"
+           id="tspan1235"
            sodipodi:role="line">Protocolo de Atendimento</tspan></text>
       <rect
          inkscape:label="campo_protocolo"
@@ -792,7 +798,7 @@
          x="62.564972"
          height="7.2379179"
          width="81.560173"
-         id="rect1109"
+         id="rect1239"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          inkscape:label="fundo_campo_protocolo"
@@ -801,7 +807,7 @@
          x="65.362312"
          height="4.5923615"
          width="9.3609924"
-         id="rect1111"
+         id="rect1241"
          style="fill:#ffffff;stroke:none;stroke-width:0.11172028;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          inkscape:label="protocolo"
@@ -809,9 +815,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="66.402878"
          y="29.624798"
-         id="text1115"><tspan
+         id="text1245"><tspan
            sodipodi:role="line"
-           id="tspan1113"
+           id="tspan1243"
            x="66.402878"
            y="29.624798"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">Setor</tspan></text>
@@ -822,7 +828,7 @@
          x="4.5051455"
          height="22.76395"
          width="139.59361"
-         id="rect1117"
+         id="rect1247"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          inkscape:label="fundo_campo_protocolo"
@@ -831,7 +837,7 @@
          x="6.979167"
          height="4.5923615"
          width="33.625355"
-         id="rect1119"
+         id="rect1249"
          style="fill:#ffffff;stroke:none;stroke-width:0.21174079;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          inkscape:label="protocolo"
@@ -839,9 +845,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="43.383144"
-         id="text1123"><tspan
+         id="text1253"><tspan
            sodipodi:role="line"
-           id="tspan1121"
+           id="tspan1251"
            x="7.6653376"
            y="43.383144"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">Descrição do problema</tspan></text>
@@ -852,7 +858,7 @@
          x="4.3333335"
          height="7.2844543"
          width="53.332607"
-         id="rect1125"
+         id="rect1255"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          inkscape:label="fundo_campo_protocolo"
@@ -861,7 +867,7 @@
          x="6.4713473"
          height="4.5923615"
          width="30.778568"
-         id="rect1127"
+         id="rect1257"
          style="fill:#ffffff;stroke:none;stroke-width:0.20257941;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          inkscape:label="protocolo"
@@ -869,15 +875,15 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.1361709"
          y="198.42912"
-         id="text1131"><tspan
+         id="text1261"><tspan
            sodipodi:role="line"
-           id="tspan1129"
+           id="tspan1259"
            x="7.1361709"
            y="198.42912"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">Data de Fechamento</tspan></text>
       <rect
          style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1133"
+         id="rect1263"
          width="81.560173"
          height="7.2379179"
          x="62.564972"
@@ -886,7 +892,7 @@
          inkscape:label="campo_protocolo" />
       <rect
          style="fill:#ffffff;stroke:none;stroke-width:0.14781497;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1135"
+         id="rect1265"
          width="16.386816"
          height="4.5923615"
          x="64.075706"
@@ -894,7 +900,7 @@
          ry="1.8800095"
          inkscape:label="fundo_campo_protocolo" />
       <text
-         id="text1139"
+         id="text1269"
          y="198.42912"
          x="64.815376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -903,11 +909,11 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="198.42912"
            x="64.815376"
-           id="tspan1137"
+           id="tspan1267"
            sodipodi:role="line">Solicitante</tspan></text>
       <rect
          style="fill:#ffffff;stroke:none;stroke-width:0.22466789;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1141"
+         id="rect1271"
          width="37.856441"
          height="4.5923615"
          x="6.979167"
@@ -915,7 +921,7 @@
          ry="1.8800095"
          inkscape:label="fundo_campo_protocolo" />
       <text
-         id="text1145"
+         id="text1275"
          y="72.487335"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -924,18 +930,18 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="72.487335"
            x="7.6653376"
-           id="tspan1143"
+           id="tspan1273"
            sodipodi:role="line">Procedimentos realizados</tspan></text>
       <image
          y="2.3665159"
          x="4.3333335"
-         id="image1147"
+         id="image1277"
          xlink:href="data:image/png;base64,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 YAAAOpgAABdvkl/FRgAAQXBJREFUeNrsvXecncV1//+eecrt927v2pV21VGXUKFjimg2xdjG4NgY O7HJzy1uiZMvjksSJ3GcGNuJYzsGFzCmg+mIKiRQ70harVbalVbb92679Skzvz/uSkiAQRhhUXRe r6u7q33KPPN5zplzPnPmjNBac0Le3SJPdMEJkI9KfvW7fnHTLX3Wie58N2uy0Fz3sXL37fygp16y yTwB8puUm259e2vyygfneCdAfnMSOWEU375yTEyYQHDdNWXuie58e4o4EUKdMNdH513f1h890ZUn 4uQTcsJcn5C3veN1POWT/9w6qSphdw+OeLn//fsJLsCHPrtbVk60Et3tzvBdP56k3ug1T770xRIf zYb7ZyRPgPxnlr/+Vlvl1NnBLyZ7/NXf+mzt/dd9Y2/ok9eUPzRjQnhSe3/+huu/0/6rn36zoWPG zNCsT3yobGM2r/jZ/T3LHn1o+Ev3/nzy9te69gXX7jQnNAXfN2N6aPq/fbdu0sPPDD8L3PG+a3bW n31+tKq/1+/fsS1b27rT2dy6etbIOwplrfXb/vO57+wd/5N7uv5lY1vKGXY8fc+zyfsO/m3jrpSj tdZdI47+wnfa6rXWPLAyea0ek7Tj6f/69YH/e717/NNNHf/blcxrX2ud077+9v91XKu15mvf33fZ YM7RacfXT24c1qd+aPt8rTVnX7V94YV/ufP8d0L/vSMcr1jcmLBgZvSv5jRErLhlMKk+cOn1/7p3 +tU37C7NeKoHIOv4ENbhz/1z2/iZE8PTDp5rSYFZIae/7/rmuaddvbP05dc+77O7Zp355ZazNw06 ezb2Z9FaY2hBcdyIz7lka9GsqaGpRQGLsCUZGvB+tuKOaesBvvLF6m/96Dv1v/zSv+/70vhFm+Mn NPkYfP7uP/YtfnjdoM64vs64vl67d1Q/2zyke0ddrbXWKcfXq3eN6LUtozrvqsL/5T39h5Zh/TdP 9urPPNKrr/5Nx68WfWh75OA1z/rYztrP3t/z+BdWJPWnHu/XX3qqVz/TPqpdX+nWzpy+b3lS7+nK aa219rTS//m77i9orfnxbd1fd1XhHsm0q7/6g/avvZ377m0/Jn/6++2GZ7JEBWX8vrYMbkJySVOc BeOPDM0jlmThpNih3/vSLo+2pVnX5yMCNmXFBoYpPmHH5b8AuwBKpgQvCJfb5wUsg7AJyYzHpl6H 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 "
          preserveAspectRatio="none"
          height="17.389868"
          width="16.227777" />
       <text
-         id="text1151"
+         id="text1281"
          y="48.145649"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -944,7 +950,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="48.145649"
            x="7.6653376"
-           id="tspan1149"
+           id="tspan1279"
            sodipodi:role="line">▢ Computador com lentidão </tspan></text>
       <text
          inkscape:label="protocolo"
@@ -952,26 +958,26 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="78.837341"
-         id="text1155"><tspan
+         id="text1285"><tspan
            sodipodi:role="line"
-           id="tspan1153"
+           id="tspan1283"
            x="7.6653376"
            y="78.837341"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Remossão de arquivos temporários</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Remoção de arquivos temporários</tspan></text>
       <text
          inkscape:label="protocolo"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="52.378986"
-         id="text1159"><tspan
+         id="text1289"><tspan
            sodipodi:role="line"
-           id="tspan1157"
+           id="tspan1287"
            x="7.6653376"
            y="52.378986"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Computador travando</tspan></text>
       <text
-         id="text1163"
+         id="text1293"
          y="56.612324"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -980,7 +986,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="56.612324"
            x="7.6653376"
-           id="tspan1161"
+           id="tspan1291"
            sodipodi:role="line">▢ Computador não liga</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -988,9 +994,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="60.845661"
-         id="text1167"><tspan
+         id="text1297"><tspan
            sodipodi:role="line"
-           id="tspan1165"
+           id="tspan1295"
            x="7.6653376"
            y="60.845661"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Computador liga más sem imagem</tspan></text>
@@ -1000,14 +1006,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="66.931999"
          y="56.612324"
-         id="text1171"><tspan
+         id="text1301"><tspan
            sodipodi:role="line"
-           id="tspan1169"
+           id="tspan1299"
            x="66.931999"
            y="56.612324"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Impressora não imprime</tspan></text>
       <text
-         id="text1175"
+         id="text1305"
          y="52.378986"
          x="66.931999"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1016,7 +1022,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="52.378986"
            x="66.931999"
-           id="tspan1173"
+           id="tspan1303"
            sodipodi:role="line">▢ Computador sem acesso à rede e/ou internet</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1024,14 +1030,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="66.931999"
          y="48.145649"
-         id="text1179"><tspan
+         id="text1309"><tspan
            sodipodi:role="line"
-           id="tspan1177"
+           id="tspan1307"
            x="66.931999"
            y="48.145649"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Rede local sem acesso à internet</tspan></text>
       <text
-         id="text1183"
+         id="text1313"
          y="60.845661"
          x="66.931999"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1040,10 +1046,10 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="60.845661"
            x="66.931999"
-           id="tspan1181"
+           id="tspan1311"
            sodipodi:role="line">▢ Outro: __________________________________</tspan></text>
       <text
-         id="text1187"
+         id="text1317"
          y="83.360329"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1052,7 +1058,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="83.360329"
            x="7.6653376"
-           id="tspan1185"
+           id="tspan1315"
            sodipodi:role="line">▢ Restauração de OS</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1060,14 +1066,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="87.874016"
-         id="text1191"><tspan
+         id="text1321"><tspan
            sodipodi:role="line"
-           id="tspan1189"
+           id="tspan1319"
            x="7.6653376"
            y="87.874016"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Otimização do Sistema</tspan></text>
       <text
-         id="text1195"
+         id="text1325"
          y="92.359795"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1076,7 +1082,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="92.359795"
            x="7.6653376"
-           id="tspan1193"
+           id="tspan1323"
            sodipodi:role="line">▢ Limpeza de memória RAM</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1084,14 +1090,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="96.854881"
-         id="text1199"><tspan
+         id="text1329"><tspan
            sodipodi:role="line"
-           id="tspan1197"
+           id="tspan1327"
            x="7.6653376"
            y="96.854881"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Troca de memória RAM</tspan></text>
       <text
-         id="text1203"
+         id="text1333"
          y="101.09727"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1100,7 +1106,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="101.09727"
            x="7.6653376"
-           id="tspan1201"
+           id="tspan1331"
            sodipodi:role="line">▢ Troca de HD</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1108,14 +1114,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="105.3784"
-         id="text1207"><tspan
+         id="text1337"><tspan
            sodipodi:role="line"
-           id="tspan1205"
+           id="tspan1335"
            x="7.6653376"
            y="105.3784"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Troca de fonte de alimentação</tspan></text>
       <text
-         id="text1211"
+         id="text1341"
          y="109.89054"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1124,7 +1130,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="109.89054"
            x="7.6653376"
-           id="tspan1209"
+           id="tspan1339"
            sodipodi:role="line">▢ Troca de fusível de estabilizador</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1132,14 +1138,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="114.17168"
-         id="text1215"><tspan
+         id="text1345"><tspan
            sodipodi:role="line"
-           id="tspan1213"
+           id="tspan1343"
            x="7.6653376"
            y="114.17168"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Conectar cabo de vídeo no local correto</tspan></text>
       <text
-         id="text1219"
+         id="text1349"
          y="118.45283"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1148,7 +1154,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="118.45283"
            x="7.6653376"
-           id="tspan1217"
+           id="tspan1347"
            sodipodi:role="line">▢ Solicitar restauração de acesso à internete ao provedor</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1156,14 +1162,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="122.97427"
-         id="text1223"><tspan
+         id="text1353"><tspan
            sodipodi:role="line"
-           id="tspan1221"
+           id="tspan1351"
            x="7.6653376"
            y="122.97427"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Troca/Instatação de roteador</tspan></text>
       <text
-         id="text1227"
+         id="text1357"
          y="127.4864"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1172,7 +1178,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="127.4864"
            x="7.6653376"
-           id="tspan1225"
+           id="tspan1355"
            sodipodi:role="line">▢ Troca/Instalação de HUB</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1180,14 +1186,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="131.99854"
-         id="text1231"><tspan
+         id="text1361"><tspan
            sodipodi:role="line"
-           id="tspan1229"
+           id="tspan1359"
            x="7.6653376"
            y="131.99854"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Troca/Instalação de Switch</tspan></text>
       <text
-         id="text1235"
+         id="text1365"
          y="136.51067"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1196,7 +1202,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="136.51067"
            x="7.6653376"
-           id="tspan1233"
+           id="tspan1363"
            sodipodi:role="line">▢ Troca/Instalação de conector RJ45 macho</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1204,14 +1210,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="141.02281"
-         id="text1239"><tspan
+         id="text1369"><tspan
            sodipodi:role="line"
-           id="tspan1237"
+           id="tspan1367"
            x="7.6653376"
            y="141.02281"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Troca/Instalação de conector RJ45 fêmea</tspan></text>
       <text
-         id="text1243"
+         id="text1373"
          y="145.53494"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1220,7 +1226,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="145.53494"
            x="7.6653376"
-           id="tspan1241"
+           id="tspan1371"
            sodipodi:role="line">▢ Troca/Instalação de cabo de rede</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1228,14 +1234,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="150.04707"
-         id="text1247"><tspan
+         id="text1377"><tspan
            sodipodi:role="line"
-           id="tspan1245"
+           id="tspan1375"
            x="7.6653376"
            y="150.04707"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Configuração de roteador</tspan></text>
       <text
-         id="text1251"
+         id="text1381"
          y="154.60573"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1244,7 +1250,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="154.60573"
            x="7.6653376"
-           id="tspan1249"
+           id="tspan1379"
            sodipodi:role="line">▢ Configuração de Switch</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1252,14 +1258,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="159.16437"
-         id="text1255"><tspan
+         id="text1385"><tspan
            sodipodi:role="line"
-           id="tspan1253"
+           id="tspan1383"
            x="7.6653376"
            y="159.16437"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Restauração de arquivos/base de dados</tspan></text>
       <text
-         id="text1259"
+         id="text1389"
          y="163.68581"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1268,7 +1274,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="163.68581"
            x="7.6653376"
-           id="tspan1257"
+           id="tspan1387"
            sodipodi:role="line">▢ Configuração de Servidor</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1276,14 +1282,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="168.24445"
-         id="text1263"><tspan
+         id="text1393"><tspan
            sodipodi:role="line"
-           id="tspan1261"
+           id="tspan1391"
            x="7.6653376"
            y="168.24445"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Instalação de software</tspan></text>
       <text
-         id="text1267"
+         id="text1397"
          y="172.71783"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1292,7 +1298,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="172.71783"
            x="7.6653376"
-           id="tspan1265"
+           id="tspan1395"
            sodipodi:role="line">▢ Remoção de excesso de poeira de computador</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1300,14 +1306,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="177.23927"
-         id="text1271"><tspan
+         id="text1401"><tspan
            sodipodi:role="line"
-           id="tspan1269"
+           id="tspan1399"
            x="7.6653376"
            y="177.23927"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Troca e cooler de fonte/dissipador de processador</tspan></text>
       <text
-         id="text1275"
+         id="text1405"
          y="181.73434"
          x="7.6653376"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1316,7 +1322,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332"
            y="181.73434"
            x="7.6653376"
-           id="tspan1273"
+           id="tspan1403"
            sodipodi:role="line">▢ Troca de pasta térmica</tspan></text>
       <text
          inkscape:label="protocolo"
@@ -1324,9 +1330,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="7.6653376"
          y="186.25734"
-         id="text1279"><tspan
+         id="text1409"><tspan
            sodipodi:role="line"
-           id="tspan1277"
+           id="tspan1407"
            x="7.6653376"
            y="186.25734"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.26458332">▢ Outro: __________________________________________________________________</tspan></text>
